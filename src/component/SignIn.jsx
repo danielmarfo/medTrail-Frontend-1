@@ -26,7 +26,7 @@ const SignIn = () => {
         <span className='h-[2px] w-full bg-[#BDBDBD] block'></span>
       </div>
       <div className='flex justify-between'>
-        <button className='flex justify-between items-center border-2 gap-3 p-2 rounded-lg'><img height={25} width={25} src={Apple} alt="Apple Logo" /> Apple</button>
+        <button className='flex justify-between items-center border-2 gap-3 p-2 rounded-lg'><img height={27} width={25} src={Apple} alt="Apple Logo" /> Apple</button>
         <button className='flex justify-between items-center gap-3  border-2 p-2 rounded-lg'><img src={Google} height={25} width={25} alt="Google Logo" /> Google</button>
       </div>
     </div>
